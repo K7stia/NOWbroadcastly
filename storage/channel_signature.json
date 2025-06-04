@@ -1,0 +1,22 @@
+{
+  "-1002454621018": {
+    "signature": "• <a href='https://example.com'>лінк</a> укп упу",
+    "enabled": true
+  },
+  "-1001315653619": {
+    "signature": "<b>жирний</b>\n<pre>текст</pre>",
+    "enabled": true
+  },
+  "-1001273799795": {
+    "signature": "<a href='https://t.me/+at9mt-Di6HBmZDIy'>Підписатись на Дніпро Тайм</a>",
+    "enabled": true
+  },
+  "-1001309998143": {
+    "signature": "<a href='https://t.me/+A4TwX7D0RZE4NDEy'>Підписатись на Полтава Тайм</a>",
+    "enabled": true
+  },
+  "-1001149043475": {
+    "signature": "<a href='https://t.me/KyivNOW'>Київ Зараз</a> | <a href='https://t.me/KNmessage_bot'>Надіслати новину</a>",
+    "enabled": true
+  }
+}

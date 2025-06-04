@@ -1,0 +1,152 @@
+{
+  "медіа к24": {
+    "channels": [
+      {
+        "id": -1001206855302,
+        "username": "@kyivtv",
+        "title": "КИЇВ24",
+        "lines_to_trim": 4,
+        "trim_phrases": [
+          "ПІДПИСАТИСЯ",
+          "Надалі",
+          "фейс",
+          "бук",
+          "тікток",
+          "телеграм",
+          "фейсбук",
+          "ДПИСАТИСЯ",
+          "ЕГРАМ"
+        ],
+        "source_signature": {
+          "enabled": true,
+          "text": "джерело: Київ24"
+        },
+        "stop_words": [
+          "чутки",
+          "фейк",
+          "спекуляція"
+        ]
+      }
+    ],
+    "skip_seen": true
+  },
+  "@channel5UA": {
+    "channels": [
+      {
+        "id": -1001381533598,
+        "username": "@channel5UA",
+        "title": "5 канал | 5.ua",
+        "lines_to_trim": 2,
+        "trim_phrases": [
+          "Підписатися",
+          "WhatsApp"
+        ],
+        "source_signature": {
+          "enabled": true,
+          "text": "📰 Джерело: 5.ua"
+        },
+        "stop_words": [
+          "неперевірена інформація",
+          "посилання на банку"
+        ]
+      }
+    ],
+    "skip_seen": true
+  },
+  "м Дніпро": {
+    "channels": [
+      {
+        "id": -1001199035757,
+        "username": "@nashemisto_dp",
+        "title": "Наше Місто Дніпро",
+        "lines_to_trim": 0,
+        "trim_phrases": [],
+        "stop_words": [
+          "телеграм-джерела"
+        ]
+      }
+    ],
+    "skip_seen": true
+  },
+  "Kharkiv": {
+    "channels": [],
+    "skip_seen": true
+  },
+  "Одеса": {
+    "channels": [],
+    "skip_seen": true
+  },
+  "Полтава_та_обл": {
+    "channels": [
+      {
+        "id": -1001596033298,
+        "username": "@poltavskaOVA",
+        "title": "🇺🇦Володимир Когут /Полтавська ОВА",
+        "lines_to_trim": 0,
+        "trim_phrases": [],
+        "source_signature": {
+          "enabled": true,
+          "text": "📌 Джерело: Полтавська ОВА"
+        },
+        "stop_words": [
+          "анонімне джерело"
+        ]
+      },
+      {
+        "id": -1001136975672,
+        "username": "@suspilnepoltava",
+        "title": "Суспільне Полтава",
+        "lines_to_trim": 0,
+        "trim_phrases": [],
+        "stop_words": [
+          "чутки"
+        ]
+      }
+    ],
+    "skip_seen": true
+  },
+  "ТЕСТОВА": {
+    "channels": [
+      {
+        "id": -1002649192479,
+        "username": "-1002649192479",
+        "title": "ЗМОНІТОРЬ МЕНЕ",
+        "lines_to_trim": 2,
+        "trim_phrases": [
+          "ЖОПА"
+        ]
+      }
+    ],
+    "skip_seen": true
+  },
+  "Київ": {
+    "channels": [
+      {
+        "id": -1001343296478,
+        "username": "@apostrophe_kyiv",
+        "title": "Апостроф Київ | Новини",
+        "lines_to_trim": 0,
+        "trim_phrases": [],
+        "source_signature": {
+          "enabled": true,
+          "text": "📍 Джерело: Апостроф Київ"
+        },
+        "stop_words": [
+          "анонім",
+          "припущення"
+        ]
+      },
+      {
+        "id": -1001331485017,
+        "username": "@kyiv_capitalcity",
+        "title": "Київ city",
+        "lines_to_trim": 0,
+        "trim_phrases": [],
+        "stop_words": [
+          "домисли"
+        ]
+      }
+    ],
+    "skip_seen": true
+  }
+}

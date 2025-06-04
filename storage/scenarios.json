@@ -1,0 +1,143 @@
+{
+  "кмвааа": {
+    "monitoring_groups": [
+      "Київ",
+      "ТЕСТОВА"
+    ],
+    "targets": [
+      {
+        "id": -1002454621018
+      }
+    ],
+    "rewrite": false,
+    "moderation": false,
+    "skip_forwards": true,
+    "schedules": [
+      {
+        "type": "loop_in_intervals",
+        "intervals": [
+          {
+            "start": "15:50",
+            "end": "16:44"
+          }
+        ],
+        "interval_min": 1,
+        "interval_max": 1
+      }
+    ],
+    "current_schedule_mode": "loop_in_intervals",
+    "interval_start": "15:50",
+    "interval_end": "16:44",
+    "note": "-",
+    "model": "popular",
+    "active": false
+  },
+  "sdfsdfsd": {
+    "monitoring_groups": [
+      "Одеса",
+      "м Дніпро"
+    ],
+    "targets": [
+      {
+        "id": -1002454621018
+      },
+      {
+        "id": -1001315653619
+      }
+    ],
+    "rewrite": false,
+    "moderation": false,
+    "skip_forwards": true,
+    "schedules": [
+      {
+        "type": "loop_in_intervals",
+        "intervals": [
+          {
+            "start": "20:20",
+            "end": "21:50"
+          }
+        ],
+        "interval_min": 1,
+        "interval_max": 1
+      }
+    ],
+    "model": "popular",
+    "current_schedule_mode": "loop_in_intervals",
+    "interval_start": "20:20",
+    "interval_end": "21:50",
+    "note": "-",
+    "active": false
+  },
+  "трололо": {
+    "current_category": "Одеса",
+    "monitoring_groups": [
+      "ТЕСТОВА",
+      "Полтава_та_обл",
+      "Київ"
+    ],
+    "targets": [
+      {
+        "id": -1002454621018
+      },
+      {
+        "id": -1001315653619
+      }
+    ],
+    "rewrite": false,
+    "moderation": false,
+    "skip_forwards": true,
+    "schedules": [
+      {
+        "type": "loop_in_intervals",
+        "intervals": [
+          {
+            "start": "20:20",
+            "end": "23:44"
+          }
+        ],
+        "interval_min": 1,
+        "interval_max": 1
+      }
+    ],
+    "model": "popular",
+    "current_schedule_mode": "loop_in_intervals",
+    "interval_start": "20:20",
+    "interval_end": "23:44",
+    "note": "-",
+    "active": false
+  },
+  "тест 13-19": {
+    "monitoring_groups": [
+      "медіа к24",
+      "@channel5UA",
+      "ТЕСТОВА"
+    ],
+    "targets": [
+      {
+        "id": -1002454621018
+      }
+    ],
+    "rewrite": false,
+    "moderation": false,
+    "skip_forwards": true,
+    "schedules": [
+      {
+        "type": "loop_in_intervals",
+        "intervals": [
+          {
+            "start": "13:20",
+            "end": "19:54"
+          }
+        ],
+        "interval_min": 1,
+        "interval_max": 1
+      }
+    ],
+    "model": "popular",
+    "current_schedule_mode": "loop_in_intervals",
+    "interval_start": "13:20",
+    "interval_end": "19:54",
+    "note": "-",
+    "active": false
+  }
+}

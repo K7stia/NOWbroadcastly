@@ -1,0 +1,17 @@
+[project]
+name = "python-template"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram>=3.20.0.post0",
+    "django-routers>=0.2",
+    "loader>=2017.9.11",
+    "openai>=1.78.1",
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+    "ssm-diff>=0.5",
+    "telegram>=0.0.1",
+    "telethon>=1.40.0",
+]
